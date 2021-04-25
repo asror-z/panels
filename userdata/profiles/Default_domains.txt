@@ -122,4 +122,5 @@ taxipro-2.teampro.uz;\booking\taxiapp\taxipro\portable\ornids_2\ornidsadmin
 taxisys.teampro.uz;\booking\taxiapp\taxisys\portable\codeignator_taxisys
 taxiub.teampro.uz;\booking\taxiapp\taxiub\portable\taxiup
 test.teampro.uz;\booking\taxiapp\test
+tester.teampro.uz;d:\develop\projects\tester
 zetsoft.uz;\officials\company\zetsoft.uz
