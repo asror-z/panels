@@ -1,0 +1,32 @@
+To: patient@gmail.com
+Subject: =?UTF-8?Q?Your=20password=20for=20login.?=
+X-PHP-Originating-Script: 0:Email.php
+Date: Sun, 18 Apr 2021 14:27:51 +0300
+From: <admin@gmail.com>
+Return-Path: <admin@gmail.com>
+Reply-To: <admin@gmail.com>
+User-Agent: CodeIgniter
+X-Sender: admin@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <607c17b7cf984@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_607c17b7cf995"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_607c17b7cf995
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Password is :12345
+
+
+--B_ALT_607c17b7cf995
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your Password is :12345
+
+--B_ALT_607c17b7cf995--
