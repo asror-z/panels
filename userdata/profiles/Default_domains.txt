@@ -73,8 +73,10 @@ restoone-3.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoo
 restoone-4.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_4\public
 
 restoone-beget.teampro.uz;\markets\restoran\restoone\portable\restone\beget_restoone\public_html
+restopro.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
 restopro-1.teampro.uz;\markets\restoran\restopro\portable\files
 restopro-2.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
+
 shopapp.teampro.uz;\Markets\SVendor\ShopApp\Portable\laravel_shopapp\public
 shoppro.teampro.uz;\markets\svendor\shoppro\portable\laravel_shoppro\public
 taxi1.teampro.uz;\booking\taxiapp\taxi1\portable\laravel_taxi1\public
@@ -120,11 +122,15 @@ TaxiApp-3.teampro.uz;\booking\taxiapp\taxiapp\portable\php_taxi7_1\web_sourcefil
 TaxiEx.teampro.uz;\booking\taxiapp\taxiex\portable\php_taxi13\lataxi
 TaxiEx-1.teampro.uz;\booking\taxiapp\taxiex\portable\lataxi
 taxigo.teampro.uz;\booking\taxiapp\taxigo\portable\gotaxiweb\admin_panel
-TaxiOne.teampro.uz;\booking\taxiapp\taxione\portable\ornids_1\ornidsadmin
+
+taxione.teampro.uz;\booking\taxiapp\taxione\portable\ornids_1\ornidsadmin
+
 taxione-1.teampro.uz;\booking\taxiapp\taxione\portable\cms_&_database
 taxione-2.teampro.uz;\booking\taxiapp\taxione\portable\php_taxi3
 taxione-3.teampro.uz;\booking\taxiapp\taxione\portable\taxiapp_web_dashboard
 taxione-4.teampro.uz;\booking\taxiapp\taxione\portable\taxiapp_web_dashboard_2.0.1
+taxione-5.teampro.uz;\booking\taxiapp\taxione\portable\ornids_1\ornidsadmin
+
 taxipro.teampro.uz;\booking\taxiapp\taxipro\portable\ourideadminpanel
 taxipro-1.teampro.uz;\booking\taxiapp\taxipro\portable\ornids_1\ornidsadmin
 taxipro-2.teampro.uz;\booking\taxiapp\taxipro\portable\ornids_2\ornidsadmin
