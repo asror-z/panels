@@ -10,6 +10,10 @@ book2-2.teampro.uz;\booking\hotels\book2\portable\2\public
 book3-1.teampro.uz;\booking\hotels\book3\portable\bookify_v1.4
 book4.teampro.uz;\booking\hotels\book4\portable\upload
 book5-1.teampro.uz;\booking\hotels\book5\portable\1
+book6-1.teampro.uz;\booking\hotels\book6\portable\flutter-multi-cities-admin
+book7-1.teampro.uz;\booking\hotels\book7\portable\files
+book8-1.teampro.uz;\booking\hotels\book8\portable\panda-multiresorts-v7.5.1
+book8-2.teampro.uz;\booking\hotels\book8\portable\panda-resort-v7.6.1
 bookpro.teampro.uz;\booking\hotels\bookpro\portable\laravel_bookpro\public
 busapp.teampro.uz;\booking\busapp\portable\codeignatore_busapp
 callapp.teampro.uz;\message\voip\callapp\portable\yii2_callapp\webapp
@@ -57,13 +61,17 @@ posgeo.teampro.uz;\markets\pos-app\posgeo\portable\codeignator_posgeo
 pospro.teampro.uz;\markets\pos-app\pospro\portable\laravel_pospro
 resto-5.teampro.uz;\markets\restoran\chef\portable\chef\public
 resto-6.teampro.uz;\markets\restoran\foodzone\portable\foodzone
+
+restoapp.teampro.uz;\markets\restoran\restoapp\portable\foods\public
 restoapp-1.teampro.uz;\markets\restoran\restoapp\portable\foods\public
 restoapp-2.teampro.uz;\markets\restoran\restoapp\portable\grocery_food_pharmacy_store\laravel_application\public
 restoma-1.teampro.uz;\markets\restoran\restoma\portable\foodoma\public
+restoone.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_3\public
 restoone-1.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_1\public
 restoone-2.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_2\public
 restoone-3.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_3\public
 restoone-4.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_4\public
+
 restoone-beget.teampro.uz;\markets\restoran\restoone\portable\restone\beget_restoone\public_html
 restopro-1.teampro.uz;\markets\restoran\restopro\portable\files
 restopro-2.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
@@ -123,5 +131,5 @@ taxipro-2.teampro.uz;\booking\taxiapp\taxipro\portable\ornids_2\ornidsadmin
 taxisys.teampro.uz;\booking\taxiapp\taxisys\portable\codeignator_taxisys
 taxiub.teampro.uz;\booking\taxiapp\taxiub\portable\taxiup
 test.teampro.uz;\booking\taxiapp\test
-tester.teampro.uz;d:\develop\projects\tester
+tester.teampro.uz;\builders\tests
 zetsoft.uz;\officials\company\zetsoft.uz
