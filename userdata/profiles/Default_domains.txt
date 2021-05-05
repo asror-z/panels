@@ -26,7 +26,14 @@ eduex.teampro.uz;\learner\academy\eduex\portable\app\public
 edugo.teampro.uz;\learner\academy\edugo\portable\app_2
 eduone.teampro.uz;\learner\academy\eduone\portable\codeignator_eduone
 edupro.teampro.uz;\learner\academy\edupro\portable\laravel_edupro\public
+edupro-1.teampro.uz;\learner\academy\edupro\portable\proacademy_v2.5\core\public_html
+edupro-2.teampro.uz;\learner\academy\edupro\portable\codecanyon-25384806-proacademy-lms-online-courses-marketplace\core\public_html
+edupro-3.teampro.uz;\learner\academy\edupro\portable\proacademy-lms-online-courses-marketplace\core\public_html
 eyuf.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft\exweb\eyuf
+freelancepro.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4
+freelancepro-1.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4-update
+freelancepro-2.teampro.uz;\markets\freelance\freelancepro\portable\activeworkdesk-14nulled
+freelancepro-3.teampro.uz;\markets\freelance\freelancepro\portable\activeworkdesk-14nulled-update
 gotaxi.teampro.uz;\booking\taxiapp\gotaxi\portable\codeignator_gotaxi
 hrmapp.teampro.uz;\manage\hrmapp\hrmapp\portable\codeigniter_hrmapp
 hrmone.teampro.uz;\manage\hrmapp\hrmone\portable\codeigniter_hrmone\hrmone
