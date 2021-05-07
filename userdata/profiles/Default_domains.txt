@@ -17,6 +17,10 @@ bookpro.teampro.uz;\booking\hotels\bookpro\portable\laravel_bookpro\public
 busapp.teampro.uz;\booking\busapp\portable\codeignatore_busapp
 callapp.teampro.uz;\message\voip\callapp\portable\yii2_callapp\webapp
 calllead.teampro.uz;\message\voip\calllead\portable\laravel_calllead\public
+cargoapp-1.teampro.uz;\markets\logistics\cargoapp\portable\cargo.uz
+cargoapp-2.teampro.uz;\markets\logistics\cargoapp\portable\cargo-pro-3.0.0\newinstallation\newinstallation
+cargoapp-3.teampro.uz;\markets\logistics\cargoapp\portable\cargopro-300\newinstallation\newinstallation
+cargoapp-4.teampro.uz;\markets\logistics\cargoapp\portable\cargo-pro-courier-system_amazcode\newinstallation\newinstallation
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
 dash-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
 edu1-1.teampro.uz;\learner\academy\edu1\portable\eclass_1\public
@@ -26,9 +30,9 @@ eduapp.teampro.uz;\learner\academy\eduapp\portable\laravel_eduapp\public
 eduapp-1.teampro.uz;\learner\academy\eduapp\portable\neonlms\neon_lms_4.6\app\public
 eduapp-2.teampro.uz;\learner\academy\eduapp\portable\neon_lms_4.6\neon-lms-app\public
 edubox.teampro.uz;\learner\academy\edubox\portable\training
-eduex.teampro.uz;\learner\academy\eduex\portable\app\public
+eduex.teampro.uz;\learner\academy\eduex\portable\traineasy-v3.6.1\app\public
 eduex-1.teampro.uz;\learner\academy\eduex\portable\traineasy_15_march_2021\app\public
-eduex-2.teampro.uz;\learner\academy\eduex\portable\traineasy-v3.6.1\app\public
+eduex-3.teampro.uz;\learner\academy\eduex\portable\traineasy-v3.6.1\app\public
 edugo.teampro.uz;\learner\academy\edugo\portable\app_2
 eduone.teampro.uz;\learner\academy\eduone\portable\codeignator_eduone
 edupro.teampro.uz;\learner\academy\edupro\portable\laravel_edupro\public
@@ -36,6 +40,8 @@ edupro-1.teampro.uz;\learner\academy\edupro\portable\proacademy_v2.5\core\public
 edupro-2.teampro.uz;\learner\academy\edupro\portable\codecanyon-25384806-proacademy-lms-online-courses-marketplace\core\public_html
 edupro-3.teampro.uz;\learner\academy\edupro\portable\proacademy-lms-online-courses-marketplace\core\public_html
 eyuf.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft\exweb\eyuf
+eyuf2.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft_2\exweb\eyuf
+eyuf-3.zetsoft.uz;\markets\complex\zetcrm\portable\t1\exweb\eyuf
 freelancepro.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4
 freelancepro-1.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4-update
 freelancepro-2.teampro.uz;\markets\freelance\freelancepro\portable\activeworkdesk-14nulled
