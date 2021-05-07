@@ -17,7 +17,6 @@ bookpro.teampro.uz;\booking\hotels\bookpro\portable\laravel_bookpro\public
 busapp.teampro.uz;\booking\busapp\portable\codeignatore_busapp
 callapp.teampro.uz;\message\voip\callapp\portable\yii2_callapp\webapp
 calllead.teampro.uz;\message\voip\calllead\portable\laravel_calllead\public
-cargo2-1.teampro.uz;\markets\logistics\cargo2\portable\runner-v1.0-complete-courier-management-nulled\codecanyon-23429128-runner-complete-courier-management\files
 cargo2-2.teampro.uz;\markets\logistics\cargo2\portable\runner-10nulled\codecanyon-23429128-runner-complete-courier-management\files
 cargo7-1.teampro.uz;\markets\logistics\cargo7\portable\application\application
 cargo7-2.teampro.uz;\markets\logistics\cargo7\portable\courier_deprixa_pro_v3.2.4-integratedwebsystem\deprixa_pro_v3.2.4
@@ -27,6 +26,7 @@ cargo7-5.teampro.uz;\markets\logistics\cargo7\portable\deprixa-326\deprixa_pro_v
 cargo8.teampro.uz;\markets\logistics\cargo8\portable\cargo-pro-3.0.0\newinstallation\newinstallation
 CargoApp.teampro.uz;\markets\logistics\cargoapp\portable\vms_v3_release_02
 CargoEx.teampro.uz;\markets\logistics\cargoex\portable\vms_main-v1
+CargoGo.teampro.uz;\markets\logistics\cargogo\portable\runner-v1.0-complete-courier-management-nulled\codecanyon-23429128-runner-complete-courier-management\files
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
 dashboard-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
 dash-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
