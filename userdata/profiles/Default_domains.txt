@@ -28,6 +28,7 @@ cargo8.teampro.uz;\markets\logistics\cargo8\portable\cargo-pro-3.0.0\newinstalla
 CargoApp.teampro.uz;\markets\logistics\cargoapp\portable\vms_v3_release_02
 CargoEx.teampro.uz;\markets\logistics\cargoex\portable\vms_main-v1
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
+dashboard-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
 dash-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
 edu1-1.teampro.uz;\learner\academy\edu1\portable\eclass_1\public
 edu1-2.teampro.uz;\learner\academy\edu1\portable\eclass_2\public
