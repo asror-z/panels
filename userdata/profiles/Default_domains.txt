@@ -28,8 +28,8 @@ cargo8-1.teampro.uz;\markets\logistics\cargo8\portable\cargopro-300\newinstallat
 cargo8-2.teampro.uz;\markets\logistics\cargo8\portable\cargo-pro-courier-system_amazcode\newinstallation\newinstallation
 CargoApp.teampro.uz;\markets\logistics\cargoapp\portable\vms_v3_release_02
 cargoapp-1.teampro.uz;\markets\logistics\cargoapp\portable\codecanyon-25741060-vehicle-management-system-with-live-gps-tracking\vms_v3_release_02
-CargoEx.teampro.uz;\markets\logistics\cargoex\portable\vms_main-v1
-CargoGo.teampro.uz;\markets\logistics\cargogo\portable\runner-v1.0-complete-courier-management-nulled\codecanyon-23429128-runner-complete-courier-management\files
+CargoOne.teampro.uz;\markets\logistics\cargoone\portable\runner-v1.0-complete-courier-management-nulled\codecanyon-23429128-runner-complete-courier-management\files
+CargoPro.teampro.uz;\markets\logistics\cargopro\portable\vms_main-v1
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
 dashboard-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
 dash-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
@@ -40,7 +40,6 @@ eduapp.teampro.uz;\learner\academy\eduapp\portable\laravel_eduapp\public
 eduapp-1.teampro.uz;\learner\academy\eduapp\portable\neonlms\neon_lms_4.6\app\public
 eduapp-2.teampro.uz;\learner\academy\eduapp\portable\neon_lms_4.6\neon-lms-app\public
 edubox.teampro.uz;\learner\academy\edubox\portable\training
-eduex.teampro.uz;\learner\academy\eduex\portable\traineasy-v3.6.1\app\public
 eduex-1.teampro.uz;\learner\academy\eduex\portable\traineasy_15_march_2021\app\public
 eduex-3.teampro.uz;\learner\academy\eduex\portable\traineasy-v3.6.1\app\public
 edugo.teampro.uz;\learner\academy\edugo\portable\app_2
@@ -157,4 +156,5 @@ taxisys.teampro.uz;\booking\taxiapp\taxisys\portable\codeignator_taxisys
 taxiub.teampro.uz;\booking\taxiapp\taxiub\portable\taxiup
 test.teampro.uz;\booking\taxiapp\test
 tester.teampro.uz;\builders\tests
+travelcars.teampro.uz;\booking\carapp\travelcars\portable\travelcars\public
 zetsoft.uz;\officials\company\zetsoft.uz
