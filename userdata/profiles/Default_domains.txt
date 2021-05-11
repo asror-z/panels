@@ -24,7 +24,10 @@ cargo7-3.teampro.uz;\markets\logistics\cargo7\portable\courierdeprixa-3262\appli
 cargo7-4.teampro.uz;\markets\logistics\cargo7\portable\courier-deprixa-pro-v3.3.0.1\application
 cargo7-5.teampro.uz;\markets\logistics\cargo7\portable\deprixa-326\deprixa_pro_v326
 cargo8.teampro.uz;\markets\logistics\cargo8\portable\cargo-pro-3.0.0\newinstallation\newinstallation
+cargo8-1.teampro.uz;\markets\logistics\cargo8\portable\cargopro-300\newinstallation\newinstallation
+cargo8-2.teampro.uz;\markets\logistics\cargo8\portable\cargo-pro-courier-system_amazcode\newinstallation\newinstallation
 CargoApp.teampro.uz;\markets\logistics\cargoapp\portable\vms_v3_release_02
+cargoapp-1.teampro.uz;\markets\logistics\cargoapp\portable\codecanyon-25741060-vehicle-management-system-with-live-gps-tracking\vms_v3_release_02
 CargoEx.teampro.uz;\markets\logistics\cargoex\portable\vms_main-v1
 CargoGo.teampro.uz;\markets\logistics\cargogo\portable\runner-v1.0-complete-courier-management-nulled\codecanyon-23429128-runner-complete-courier-management\files
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
