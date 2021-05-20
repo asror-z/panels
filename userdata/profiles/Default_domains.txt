@@ -1,4 +1,5 @@
 agora.teampro.uz;\builders\keys\agora_invoicing\portable\agora-invoicing\public
+agrobotPro.teampro.uz;\telegram\agrobot\portable\laravel_agrobot\public
 auto-licenser-full.teampro.uz;\builders\keys\auto_php_licenser\portable\demo_full
 auto-licenser-mini.teampro.uz;\builders\keys\auto_php_licenser\portable\demo_minimal
 auto-licenser-script.teampro.uz;\builders\keys\auto_php_licenser\portable\script
