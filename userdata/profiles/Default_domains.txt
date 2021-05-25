@@ -33,7 +33,9 @@ CargoOne.teampro.uz;\markets\logistics\cargoone\portable\runner-v1.0-complete-co
 CargoPro.teampro.uz;\markets\logistics\cargopro\portable\vms_main-v1
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
 dashboard-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
-dash-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
+dashboard-parser-teampro.uz;\builders\parse\tender\portable\parser_dashboard-2\public
+deliveryapp.teampro.uz;\markets\delivery\deliveryapp\portable\backend
+deliveryone.teampro.uz;\markets\delivery\deliveryone\portable\foodzone
 edu1-1.teampro.uz;\learner\academy\edu1\portable\eclass_1\public
 edu1-2.teampro.uz;\learner\academy\edu1\portable\eclass_2\public
 edu6.teampro.uz;\learner\academy\edu6\portable
@@ -89,6 +91,8 @@ pospro.teampro.uz;\markets\pos-app\pospro\portable\laravel_pospro
 resto-5.teampro.uz;\markets\restoran\chef\portable\chef\public
 resto-6.teampro.uz;\markets\restoran\foodzone\portable\foodzone
 restoapp.teampro.uz;\markets\restoran\restoapp\portable\grocery_food_pharmacy_store\laravel_application\public
+restoapp-3.teampro.uz;\markets\restoran\restoapp\portable\grocery-2.0.1\laravel_application\public
+restoapp-4.teampro.uz;\markets\restoran\restoapp\portable\groceryfoodapp-201\codecanyon-26409320-grocery-food-pharmacy-store-delivery-mobile-app-with-admin-panel\laravel_application\public
 restoma.teampro.uz;\markets\restoran\restoma\portable\foodoma\public
 restoone.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_3\public
 restoone-1.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_1\public
