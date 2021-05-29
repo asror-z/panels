@@ -1,5 +1,6 @@
 agora.teampro.uz;\builders\keys\agora_invoicing\portable\agora-invoicing\public
 agrobotPro.teampro.uz;\telegram\agrobot\portable\laravel_agrobot\public
+arbitpro.teampro.uz;\cpanet\cpanet\arbitpro\portable\arbitpro
 auto-licenser-full.teampro.uz;\builders\keys\auto_php_licenser\portable\demo_full
 auto-licenser-mini.teampro.uz;\builders\keys\auto_php_licenser\portable\demo_minimal
 auto-licenser-script.teampro.uz;\builders\keys\auto_php_licenser\portable\script
@@ -33,7 +34,7 @@ CargoOne.teampro.uz;\markets\logistics\cargoone\portable\runner-v1.0-complete-co
 CargoPro.teampro.uz;\markets\logistics\cargopro\portable\vms_main-v1
 dash-2-parser.teampro.uz;\builders\parse\tender\portable\parcer_bot\public
 dashboard-parser.teampro.uz;\builders\parse\tender\portable\parser_dashboard\public
-dashboard-parser-teampro.uz;\builders\parse\tender\portable\parser_dashboard-2\public
+dashboard-parser-2.teampro.uz;\builders\parse\tender\portable\parser_dashboard-2\public
 deliveryapp.teampro.uz;\markets\delivery\deliveryapp\portable\backend
 deliveryone.teampro.uz;\markets\delivery\deliveryone\portable\foodzone
 edu1-1.teampro.uz;\learner\academy\edu1\portable\eclass_1\public
@@ -51,6 +52,7 @@ edupro.teampro.uz;\learner\academy\edupro\portable\laravel_edupro\public
 edupro-1.teampro.uz;\learner\academy\edupro\portable\proacademy_v2.5\core\public_html
 edupro-2.teampro.uz;\learner\academy\edupro\portable\codecanyon-25384806-proacademy-lms-online-courses-marketplace\core\public_html
 edupro-3.teampro.uz;\learner\academy\edupro\portable\proacademy-lms-online-courses-marketplace\core\public_html
+eSMS.teampro.uz;\learner\schools\esms\portable\esms\codecanyon-19463364-esms-online-school-management-system\main_files\sms
 eyuf.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft\exweb\eyuf
 eyuf2.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft_2\exweb\eyuf
 eyuf-3.zetsoft.uz;\markets\complex\zetcrm\portable\t1\exweb\eyuf
@@ -63,6 +65,7 @@ hrmapp.teampro.uz;\manage\hrmapp\hrmapp\portable\codeigniter_hrmapp
 hrmone.teampro.uz;\manage\hrmapp\hrmone\portable\codeigniter_hrmone\hrmone
 hrmpro.teampro.uz;\Manage\HRMApp\HRMPro\Portable\php_HRMPro
 icons.teampro.uz;\builders\icons
+laravelposapp.teampro.uz;\cpanet\cpanet\amsapp\portable\laravel_posapp
 licensebox.teampro.uz;\builders\keys\licensebox\portable\licensebox
 marketappr.teampro.uz;\markets\mvendor\marketapp\portable\codeigniter_marketapp
 marketone.teampro.uz;\markets\mvendor\marketone\portable\codeigniter_marketone
@@ -103,8 +106,15 @@ restoone-beget.teampro.uz;\markets\restoran\restoone\portable\restone\beget_rest
 restopro.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
 restopro-1.teampro.uz;\markets\restoran\restopro\portable\files
 restopro-2.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
+schools1.teampro.uz;\learner\schools\schools1\portable\ekattor-school-manager-laravel
+schools16.teampro.uz;\learner\schools\schools16\portable\public
+schools18.teampro.uz;\learner\schools\schools18\portable\infixeduv4.5
+schools25.teampro.uz;\learner\schools\schools25\portable
+schools3-1.teampro.uz;\learner\schools\schools3\portable\edufirmims-may-2020\public
+schools3-2.teampro.uz;\learner\schools\schools3\portable\edufirmwebcms\public
 shopapp.teampro.uz;\Markets\SVendor\ShopApp\Portable\laravel_shopapp\public
 shoppro.teampro.uz;\markets\svendor\shoppro\portable\laravel_shoppro\public
+surfow.teampro.uz;\cpanet\cpanet\surfow\portable\surfow_app
 taxi1.teampro.uz;\booking\taxiapp\taxi1\portable\laravel_taxi1\public
 taxi10.teampro.uz;\booking\taxiapp\taxi10\portable\filehost_callmycab
 taxi10-1.teampro.uz;\booking\taxiapp\taxi10\portable\codecanyon-12073583-call-my-cab\admin
@@ -161,5 +171,7 @@ taxisys.teampro.uz;\booking\taxiapp\taxisys\portable\codeignator_taxisys
 taxiub.teampro.uz;\booking\taxiapp\taxiub\portable\taxiup
 test.teampro.uz;\booking\taxiapp\test
 tester.teampro.uz;\builders\tests
+travelcar.teampro.uz;\travelcar\travelcarscopy\public
+travelcarr.teampro.uz;\booking\carapp\travelcars.online\portable\travelcarscopy\public
 travelcars.teampro.uz;\booking\carapp\travelcars\portable\travelcars\public
 zetsoft.uz;\officials\company\zetsoft.uz
