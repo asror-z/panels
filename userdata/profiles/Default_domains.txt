@@ -1,3 +1,4 @@
+admin.travelcars.teampro.uz;\booking\carapp\travelcars.online\portable\laravel_travelcars\public
 agora.teampro.uz;\builders\keys\agora_invoicing\portable\agora-invoicing\public
 agrobotPro.teampro.uz;\telegram\agrobot\portable\laravel_agrobot\public
 arbitpro.teampro.uz;\cpanet\cpanet\arbitpro\portable\arbitpro
@@ -171,7 +172,6 @@ taxisys.teampro.uz;\booking\taxiapp\taxisys\portable\codeignator_taxisys
 taxiub.teampro.uz;\booking\taxiapp\taxiub\portable\taxiup
 test.teampro.uz;\booking\taxiapp\test
 tester.teampro.uz;\builders\tests
-travelcar.teampro.uz;\travelcar\travelcarscopy\public
-travelcarr.teampro.uz;\booking\carapp\travelcars.online\portable\travelcarscopy\public
-travelcars.teampro.uz;\booking\carapp\travelcars\portable\travelcars\public
+tinfis.teampro.uz;\markets\complex\tinfis\portable\laravel_estore_one
+travelcars.teampro.uz;\booking\carapp\travelcars.online\portable\laravel_travelcars\public
 zetsoft.uz;\officials\company\zetsoft.uz
