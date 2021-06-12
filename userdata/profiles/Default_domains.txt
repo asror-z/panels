@@ -107,12 +107,11 @@ restoone-beget.teampro.uz;\markets\restoran\restoone\portable\restone\beget_rest
 restopro.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
 restopro-1.teampro.uz;\markets\restoran\restopro\portable\files
 restopro-2.teampro.uz;\markets\restoran\restopro\portable\khana-multi-resturant-food-ordering-restaurant-management-with-saas\files\script\public
-schools1.teampro.uz;\learner\schools\schools1\portable\ekattor-school-manager-laravel
-schools16.teampro.uz;\learner\schools\schools16\portable\public
-schools18.teampro.uz;\learner\schools\schools18\portable\infixeduv4.5
-schools25.teampro.uz;\learner\schools\schools25\portable
-schools3-1.teampro.uz;\learner\schools\schools3\portable\edufirmims-may-2020\public
-schools3-2.teampro.uz;\learner\schools\schools3\portable\edufirmwebcms\public
+schoolapp.teampro.uz;\learner\schools\schoolapp\portable
+schoolex.teampro.uz;\learner\schools\schoolex\portable\edufirmims-may-2020\public
+schoolone.teampro.uz;\learner\schools\schoolone\portable\ekattor-school-manager-laravel
+schoolpro.teampro.uz;\learner\schools\schoolpro\portable\infixeduv4.5
+schooltop.teampro.uz;\learner\schools\schooltop\portable\public
 shopapp.teampro.uz;\Markets\SVendor\ShopApp\Portable\laravel_shopapp\public
 shoppro.teampro.uz;\markets\svendor\shoppro\portable\laravel_shoppro\public
 surfow.teampro.uz;\cpanet\cpanet\surfow\portable\surfow_app
@@ -174,4 +173,6 @@ test.teampro.uz;\booking\taxiapp\test
 tester.teampro.uz;\builders\tests
 tinfis.teampro.uz;\markets\complex\tinfis\portable\laravel_estore_one
 travelcars.teampro.uz;\booking\carapp\travelcars.online\portable\laravel_travelcars\public
+travelcars-2.teampro.uz;\booking\carapp\travelcars.online\portable\laravel_travelcars-2\laravel_travelcars\public
+vox.link;c:\users\bloger\desktop\wp-project
 zetsoft.uz;\officials\company\zetsoft.uz
