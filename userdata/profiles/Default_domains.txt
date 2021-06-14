@@ -97,7 +97,7 @@ resto-6.teampro.uz;\markets\restoran\foodzone\portable\foodzone
 restoapp.teampro.uz;\markets\restoran\restoapp\portable\grocery_food_pharmacy_store\laravel_application\public
 restoapp-3.teampro.uz;\markets\restoran\restoapp\portable\grocery-2.0.1\laravel_application\public
 restoapp-4.teampro.uz;\markets\restoran\restoapp\portable\groceryfoodapp-201\codecanyon-26409320-grocery-food-pharmacy-store-delivery-mobile-app-with-admin-panel\laravel_application\public
-restoma.teampro.uz;\markets\restoran\restoma\portable\foodoma\public
+restoma.teampro.uz;\markets\restoran\restoma\portable\foodoma_new\public
 restoone.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_3\public
 restoone-1.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_1\public
 restoone-2.teampro.uz;\markets\restoran\restoone\portable\restone\laravel_restoone_2\public
