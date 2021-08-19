@@ -69,7 +69,8 @@ laravelposapp.teampro.uz;\cpanet\cpanet\amsapp\portable\laravel_posapp
 licensebox.teampro.uz;\builders\keys\licensebox\portable\licensebox
 marketappr.teampro.uz;\markets\mvendor\marketapp\portable\codeigniter_marketapp
 marketone.teampro.uz;\markets\mvendor\marketone\portable\codeigniter_marketone
-marketpro.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro\public
+marketpro.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro
+marketproo.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro
 med1-2.teampro.uz;\manage\medical\med1\portable\doctorino\public
 med2.teampro.uz;\manage\medical\med2\portable\emantals\public
 med3-1.teampro.uz;\manage\medical\med3\portable\healwire-v2
