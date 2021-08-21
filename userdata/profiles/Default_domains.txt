@@ -54,6 +54,7 @@ edupro-2.teampro.uz;\learner\academy\edupro\portable\codecanyon-25384806-proacad
 edupro-3.teampro.uz;\learner\academy\edupro\portable\proacademy-lms-online-courses-marketplace\core\public_html
 eSMS.teampro.uz;\learner\schools\esms\portable\esms\codecanyon-19463364-esms-online-school-management-system\main_files\sms
 eyuf.zetsoft.uz;\markets\complex\zetcrm\portable\zetsoft\exweb\eyuf
+forum.oyina.uz;\officials\governer\oyina.uz\portable\forum\public
 forum.teampro.uz;\officials\governer\oyina.uz\portable\forum\public
 freelancepro.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4
 freelancepro-1.teampro.uz;\markets\freelance\freelancepro\portable\active-workdesk-cms-1.4-update
@@ -70,7 +71,8 @@ licensebox.teampro.uz;\builders\keys\licensebox\portable\licensebox
 marketappr.teampro.uz;\markets\mvendor\marketapp\portable\codeigniter_marketapp
 marketone.teampro.uz;\markets\mvendor\marketone\portable\codeigniter_marketone
 marketpro.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro
-marketproo.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro
+marketpro1.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro_5_1\install
+marketpro2.teampro.uz;\markets\mvendor\marketpro\portable\laravel_marketpro_5_2
 med1-2.teampro.uz;\manage\medical\med1\portable\doctorino\public
 med2.teampro.uz;\manage\medical\med2\portable\emantals\public
 med3-1.teampro.uz;\manage\medical\med3\portable\healwire-v2
@@ -95,7 +97,7 @@ posgeo.teampro.uz;\markets\pos-app\posgeo\portable\codeignator_posgeo
 pospro.teampro.uz;\markets\pos-app\pospro\portable\laravel_pospro
 restoapp.teampro.uz;\markets\restoran\restoapp\portable\efood\public
 restobox.teampro.uz;\markets\restoran\restobox\portable\fuodz\public
-restobox3.teampro.uz;\markets\restoran\restobox\portable\1_30\new_owners\public
+restobox2.teampro.uz;\markets\restoran\restobox\portable\1_30\public
 restoGo.teampro.uz;\markets\restoran\restogo\portable\restomulti
 restoOne.teampro.uz;\markets\restoran\foodtiger\portable\foodtiger\public
 restopro.teampro.uz;\markets\restoran\restopro\portable\gogrocerbackend
